@@ -2,7 +2,6 @@
 <h4> All code was developed Summer 2025 as part of a selected cohort of 80 students </h4>
 
 <br>
-<hr>
 <br> 
 <h2> Class Code </h2>
 <p> Taught algoritms used to assemble genomes from sequenced DNA </p>
@@ -10,7 +9,6 @@
 <p> Files include all lecture code </p>
 
 <br>
-<hr>
 <br>
 <h2> Programming Bootcamp </h2>
 <p> Required to complete the ProgrammingForLovers course </p>
@@ -18,7 +16,6 @@
 <p> Files are of the lecture code and practice assignments </p>
 
 <br>
-<hr>
 <br>
 <h2> Results </h2>
 <p> Sampled different polluted locations in order to study the effect of pollution on biodiversity </p>
