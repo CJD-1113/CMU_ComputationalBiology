@@ -21,7 +21,7 @@
 <p> Sampled different polluted locations in order to study the effect of pollution on biodiversity </p>
 <p> Studied the effect of: </p>
 <ul>
-  <li> Iron product at Carrie Furnace </li>
+  <li> Iron production at Carrie Furnace </li>
   <li> Acid mine runoff at Boyce Park </li>
 </ul>
 <p> Processed samples in the wetlab </p>
